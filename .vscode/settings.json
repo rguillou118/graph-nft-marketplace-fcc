@@ -1,0 +1,5 @@
+{
+  "git.terminalAuthentication": true,
+  "git.timeline.showAuthor": true,
+  "git.useEditorAsCommitInput": true
+}
